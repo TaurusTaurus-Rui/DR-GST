@@ -1,4 +1,8 @@
-# README
+# DR-GST
+
+This repo is for source code of WWW 2022 paper "Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift".
+
+Paper Link: https://arxiv.org/abs/2201.11349
 
 ## Environment
 
@@ -101,3 +105,8 @@ python main.py --dataset dataset --m model --labelrate labelrate --s stage --t t
 | Pubmed-3-0.810000-0.500000-0.300000-dropedge   | stage = 1 |
 | CoraFull-3-0.660000-0.500000-0.300000-dropedge | stage = 1 |
 | Flickr-3-0.900000-0.666667-0.500000-dropedge   | stage = 1 |
+
+## Contact
+
+If you have any questions, please feel free to contact me with [liuhongrui@bupt.edu.cn](mailto:liuhongrui@bupt.edu.cn)
+
