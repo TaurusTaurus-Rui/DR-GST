@@ -16,7 +16,7 @@ python main.py --dataset dataset --m model --labelrate labelrate --s stage --t t
 
 - **dataset:** including [Cora, Citeseer, Pubmed, CoraFull, Flickr]
 - **model:** including [GCN, GAT, APPNP]
-- **labelrate:**including [3, 5, 10, 20]
+- **labelrate:** including [3, 5, 10, 20]
 - **stage:** ranging from 1 to 10
 - **drop_method:** including [dropout, dropedge]
 
