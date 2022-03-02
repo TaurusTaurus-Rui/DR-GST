@@ -24,6 +24,10 @@ python main.py --dataset dataset --m model --labelrate labelrate --s stage --t t
 - **stage:** ranging from 1 to 10
 - **drop_method:** including [dropout, dropedge]
 
+```python
+python main.py --dataset Citeseer --m GCN --labelrate 20 --s 9 --t 0.7 --b 0.5 --drop_method dropout --droprate 0.3
+```
+
 ## Part of Parameters
 
 ### labelrate = 20, drop_method = dropout
